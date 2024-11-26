@@ -1,0 +1,16 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "hello this an update to the README file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "nebuchadnezar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
